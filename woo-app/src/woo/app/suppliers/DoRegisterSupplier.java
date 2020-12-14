@@ -5,7 +5,6 @@ import pt.tecnico.po.ui.DialogException;
 import pt.tecnico.po.ui.Input;                                                                                                                
 import woo.Storefront;
 import woo.app.exceptions.DuplicateSupplierKeyException;
-//FIXME import other classes
 import woo.exceptions.SimilarSupplierKeyException;
 
 /**

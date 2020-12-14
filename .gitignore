@@ -20,6 +20,6 @@
 *.rar
 
 #others
-po-uuilib-*
+po-uuilib*
 *.txt
 .vscode
