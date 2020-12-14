@@ -11,7 +11,6 @@ public class Product extends Subject implements Serializable{
     private int stock = 0;
     private int period;
 
-
     /**
      * Constructor
      *
