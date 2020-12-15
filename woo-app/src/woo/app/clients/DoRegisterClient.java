@@ -6,7 +6,6 @@ import pt.tecnico.po.ui.Input;
 import woo.Storefront;                                                                                                                        
 import woo.app.exceptions.DuplicateClientKeyException;
 import woo.exceptions.SimilarClientKeyException;
-
 /**
  * Register new client.
  */
@@ -26,7 +25,7 @@ public class DoRegisterClient extends Command<Storefront> {
   @Override
   public void execute() throws DialogException, DuplicateClientKeyException {
     _form.parse();
-    try {
+    try {    
       _receiver.registerClient(clientKey.value(),name.value(),address.value());
     }
     catch (SimilarClientKeyException e){
