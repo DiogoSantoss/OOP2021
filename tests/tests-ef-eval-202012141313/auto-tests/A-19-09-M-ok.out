@@ -1,0 +1,104 @@
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador do cliente: Data limite de pagamento: Identificador do produto: Quantidade: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador do cliente: Data limite de pagamento: Identificador do produto: Quantidade: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Saldo disponível: 400
+Saldo contabilístico: 800
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Produtos
+1 - Visualizar
+2 - Registar Caixa
+3 - Registar Contentor
+4 - Registar Livro
+5 - Alterar Preço
+0 - Sair
+Escolha uma opção: Identificador do produto: Preço: Gestão de Produtos
+1 - Visualizar
+2 - Registar Caixa
+3 - Registar Contentor
+4 - Registar Livro
+5 - Alterar Preço
+0 - Sair
+Escolha uma opção: BOX|1C6H5OH|P1|2|20|100|NORMAL
+BOX|3O3|P2|8|20|100|EXPRESS
+BOX|4CO2|P2|16|20|0|PERSONAL
+CONTAINER|7M5|P2|8|20|100|EXPRESS|B4
+BOOK|8B1256|P1|58|2|5|Os Lusíadas|Luís de Camões|1234567890
+BOX|B|P2|1|20|98|AIR
+BOOK|BK|P1|200|2|5|How to fix almost everything|Satoshi Yamada|1928374650
+CONTAINER|C|P2|300|20|100|AIR|C4
+Gestão de Produtos
+1 - Visualizar
+2 - Registar Caixa
+3 - Registar Contentor
+4 - Registar Livro
+5 - Alterar Preço
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: 

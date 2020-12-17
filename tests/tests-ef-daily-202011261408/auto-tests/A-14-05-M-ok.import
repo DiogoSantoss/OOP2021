@@ -1,0 +1,7 @@
+SUPPLIER|P1|Publicações Europa-América|Lisboa, Portugal
+SUPPLIER|P2|O’Reilly|Köln, Germany
+CLIENT|R2|Jorge Figueiredo|Lisboa, Portugal
+BOX|1C6H5OH|NORMAL|P1|2|20|100
+BOX|4CO2|PERSONAL|P2|16|20|0
+CONTAINER|7M5|EXPRESS|B4|P2|8|20|100
+BOOK|B1937|How to fix almost everything|Satoshi Yamada|1928374650|P1|5|2|5

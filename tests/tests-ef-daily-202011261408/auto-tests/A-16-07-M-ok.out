@@ -1,0 +1,113 @@
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Número inválido!
+Escolha uma opção: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador do cliente: Data limite de pagamento: Identificador do produto: Quantidade: Registar venda: Operação inválida: O cliente 'C1' não existe.
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador do cliente: Data limite de pagamento: Identificador do produto: Quantidade: Registar venda: Operação inválida: O produto '2H' não existe.
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: Visualizar: Operação inválida: A transacção '0' não existe.
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Clientes
+1 - Mostrar cliente
+2 - Mostrar clientes
+3 - Registar cliente
+4 - Activa/desactivar notificações de um produto
+5 - Mostrar transacções do cliente
+0 - Sair
+Escolha uma opção: R2|Jorge Figueiredo|Lisboa, Portugal|NORMAL|0|0
+S2|Ricardo Figueiredo|Lisboa|NORMAL|0|0
+Gestão de Clientes
+1 - Mostrar cliente
+2 - Mostrar clientes
+3 - Registar cliente
+4 - Activa/desactivar notificações de um produto
+5 - Mostrar transacções do cliente
+0 - Sair
+Escolha uma opção: Identificador do cliente: Gestão de Clientes
+1 - Mostrar cliente
+2 - Mostrar clientes
+3 - Registar cliente
+4 - Activa/desactivar notificações de um produto
+5 - Mostrar transacções do cliente
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: Visualizar: Operação inválida: A transacção '0' não existe.
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: 

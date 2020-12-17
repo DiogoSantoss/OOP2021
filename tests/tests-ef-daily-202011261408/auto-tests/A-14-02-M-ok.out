@@ -1,0 +1,47 @@
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Produtos
+1 - Visualizar
+2 - Registar Caixa
+3 - Registar Contentor
+4 - Registar Livro
+5 - Alterar Preço
+0 - Sair
+Escolha uma opção: Identificador do produto: Titulo do livro: Autor do livro: ISBN: Preço: Valor crítico para as existências: Identificador do fornecedor: Gestão de Produtos
+1 - Visualizar
+2 - Registar Caixa
+3 - Registar Contentor
+4 - Registar Livro
+5 - Alterar Preço
+0 - Sair
+Escolha uma opção: BOOK|BOOK1|P1|22|12|0|título|autor|isbn
+Gestão de Produtos
+1 - Visualizar
+2 - Registar Caixa
+3 - Registar Contentor
+4 - Registar Livro
+5 - Alterar Preço
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: 

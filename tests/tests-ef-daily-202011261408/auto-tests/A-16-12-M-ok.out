@@ -1,0 +1,85 @@
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador do cliente: Data limite de pagamento: Identificador do produto: Quantidade: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador do cliente: Data limite de pagamento: Identificador do produto: Quantidade: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: 1|S2|B1937|3|15|15|1
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: 0|R2|6M2|30|120|120|1
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Clientes
+1 - Mostrar cliente
+2 - Mostrar clientes
+3 - Registar cliente
+4 - Activa/desactivar notificações de um produto
+5 - Mostrar transacções do cliente
+0 - Sair
+Escolha uma opção: R2|Jorge Figueiredo|Lisboa, Portugal|NORMAL|120|0
+S2|Ricardo Figueiredo|Lisboa|NORMAL|15|0
+Gestão de Clientes
+1 - Mostrar cliente
+2 - Mostrar clientes
+3 - Registar cliente
+4 - Activa/desactivar notificações de um produto
+5 - Mostrar transacções do cliente
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: 

@@ -1,0 +1,58 @@
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador do cliente: Data limite de pagamento: Identificador do produto: Quantidade: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: Visualizar: Operação inválida: A transacção '1' não existe.
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: Visualizar: Operação inválida: A transacção '-1' não existe.
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: Visualizar: Operação inválida: A transacção '45' não existe.
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: 

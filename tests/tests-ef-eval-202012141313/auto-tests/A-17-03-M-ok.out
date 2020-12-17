@@ -1,0 +1,45 @@
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador do fornecedor: Identificador do produto: Quantidade: Encomendar mais produtos? (s/n) Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Identificador da transacção: 0|P1|50|0
+B1937|10
+Gestão de Transacções
+1 - Visualizar
+2 - Registar venda
+3 - Registar encomenda
+4 - Pagar
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: 

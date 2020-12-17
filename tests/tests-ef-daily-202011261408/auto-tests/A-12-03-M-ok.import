@@ -1,0 +1,5 @@
+SUPPLIER|S1|Toshiba|Tokyo, Japan
+CLIENT|H2O|Rohit Figueiredo|New Delhi, India
+BOOK|B1256|Os Lusíadas|Luís de Camões|1234567890|S1|58|2|5
+BOOK|B9854|Head First Java|Sierra & Bates|9876543210|S1|75|2|5
+BOOK|BA937|How to fix almost everything|Satoshi Yamada|1928374650|S1|5|2|5
